@@ -1,8 +1,8 @@
 {
     "name": "",
-    "chance": 1,
+    "base_chance": 1,
     /*
-    * can be from 1 to 100,
+    * can be from 1% to 1.5%,
     * that's the percentage to get he main 5 star
     */
     "pity" : 0

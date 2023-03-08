@@ -18,8 +18,12 @@
     * 7 - anemo
     */
     "hp": 1000, // health points
-    "dmg": 100, // basic damage(physical)
-    "edmg": 10000, //  elemental damage
+    "dmg": 100, // basic damage
+    "edmg": 10000, // elemental damage
     "cc": 5, // crit chance
-    "cd": 1000 //crit damage
+    "cd": 1000, // crit damage
+    "unlocked": false,
+    "def": 100,
+    "lvl": 1, // can  be from 1 to 90, every lv gives + 10% all stats 
+    "c": -1 // can be from 0 to 6, every c gives +5% all stats
 }
