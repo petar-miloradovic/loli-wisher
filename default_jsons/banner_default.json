@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "chance": 1,
+    /*
+    * can be from 1 to 100,
+    * that's the percentage to get he main 5 star
+    */
+    "pity" : 0
+    /*
+    * can be from 0 to 90
+    * increases temporally the chanche value
+    */
+}

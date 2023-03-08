@@ -1,0 +1,25 @@
+{
+    "name": "",
+    "surname": "",
+    "age": 18,
+    "sex": "m/f",
+    "size": "s/m/l",
+    "furry": true,
+    "star": 4, // can be only 4 or 5
+    "element": 0,
+    /*
+    * elements list:
+    * 1 - pyro
+    * 2 - hydro
+    * 3 - geo
+    * 4 - electro
+    * 5 - dendro
+    * 6 - cryo
+    * 7 - anemo
+    */
+    "hp": 1000, // health points
+    "dmg": 100, // basic damage(physical)
+    "edmg": 10000, //  elemental damage
+    "cc": 5, // crit chance
+    "cd": 1000 //crit damage
+}
