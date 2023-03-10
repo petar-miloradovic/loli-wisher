@@ -15,3 +15,5 @@ string = string.removesuffix('.json')
 print (string)
 '''
 
+q = ['a', 'b', 'sdf']
+print(q)
